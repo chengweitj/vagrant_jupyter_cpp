@@ -1,0 +1,6 @@
+# Vagrant
+.vagrant
+ubuntu-*.log
+
+# macOS
+.DS_Store
